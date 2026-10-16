@@ -1,0 +1,5 @@
+Hotel Booking Application
+
+1. Grand Palace - Rs.3000 per night
+2. City Comfort - Rs.2000 per night
+3. Green Valley - Rs.2500 per night
